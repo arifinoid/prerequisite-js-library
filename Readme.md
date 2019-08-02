@@ -1,6 +1,6 @@
 # Vanilla js fundamental core
 
-- Recursion
+- Recursion ✔
 - Closures
 - Loops
 - Conditionals
@@ -12,7 +12,7 @@
 - babel
 
 - promises
-- async/await
+- async/await ✔
 - data structures
 - object / array manipulation
 - scope
