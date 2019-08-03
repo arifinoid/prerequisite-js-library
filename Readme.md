@@ -4,7 +4,7 @@
 - Closures ✔
 - Loops
 - Conditionals
-
+- Currying ✔
 
 - package managers
 - yarn
@@ -24,11 +24,10 @@
 - Arrow functions
 - Spread operator
 
-## Functional Methods 
+## Functional Methods
 
 - .map ✔
 - .filter ✔
 - .reduce ✔
 
-
-- ajax
+* ajax
