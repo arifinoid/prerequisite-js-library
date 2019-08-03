@@ -1,7 +1,7 @@
 # Vanilla js fundamental core
 
 - Recursion ✔
-- Closures
+- Closures ✔
 - Loops
 - Conditionals
 
@@ -26,9 +26,9 @@
 
 ## Functional Methods 
 
-- .map
-- .filter
-- .reduce
+- .map ✔
+- .filter ✔
+- .reduce ✔
 
 
 - ajax
