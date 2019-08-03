@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+baconjs@3.0.9:
+  version "3.0.9"
+  resolved "https://registry.yarnpkg.com/baconjs/-/baconjs-3.0.9.tgz#3d06aee8c08c370825c8b2996433854d0a0c6422"
+  integrity sha512-jmVRdZhlnOXWoB/ad1lZVeLstSBxJ4/tQmZ7eqNNlSMvVKgysX0iQ8KJkN3MP0q0DWevqwujcvB9nmeLjN51pg==
+
 highland@2.13.5:
   version "2.13.5"
   resolved "https://registry.yarnpkg.com/highland/-/highland-2.13.5.tgz#d55cd8ac3f67a00fad79918668d51493222cfcc2"
