@@ -1,3 +1,5 @@
+// Functor implements map
+
 const stringFunctor = (value, fn) => {
   let chars = value.split("");
   return chars

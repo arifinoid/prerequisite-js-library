@@ -5,6 +5,7 @@
   "author": "Rohmad Arifin <rohmadarifin007@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "highland": "2.13.5",
     "lodash": "4.17.15"
   }
 }
