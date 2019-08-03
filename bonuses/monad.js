@@ -1,3 +1,5 @@
+// monad is a functor that also implements FLATMAP, which is flaten into its containing value
+
 const fetch = require("node-fetch");
 const Bacon = require("baconjs");
 
