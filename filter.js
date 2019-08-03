@@ -9,9 +9,9 @@ const animals = [
   { name: "Jimmy", species: "fish" }
 ];
 
-// const dogs = [];
-// for (let i = 0; i >= animals.length; i++) {
-//   if (animals.species === "dog") dogs.push(animals[i]);
+// let dogs = [];
+// for (let i = 0; i < animals.length; i++) {
+//   if (animals[i].species === "dog") dogs.push(animals[i]);
 // }
 
 const isDog = animal => animal.species === "dog";
