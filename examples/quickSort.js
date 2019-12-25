@@ -28,3 +28,5 @@ const quickSort = arr => {
 console.log(quickSort(numbers));
 
 // use '<' in line 21 for desc orders
+
+// In recursion, it's first in last out
